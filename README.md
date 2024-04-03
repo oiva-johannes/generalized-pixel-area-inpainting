@@ -4,7 +4,7 @@ This process is known as image inpainting and I will show you how to do it **fas
 
 The problem is as following:
 
-<figure>
+<figure align="center">
   <img src="https://github.com/oiva-johannes/generalized-pixel-area-inpainting/assets/72695556/fc1b918c-e4a5-41c5-badc-f799531891af" alt="3x4 area">
   <figcaption>Caption for the image</figcaption>
 </figure>
